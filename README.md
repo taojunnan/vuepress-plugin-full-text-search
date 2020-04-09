@@ -1,4 +1,4 @@
-# # vuepress 中文全文搜索
+# vuepress 中文全文搜索插件
 
 > 代码来自[https://github.com/leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search)，但是只支持英文全文搜索，做了部分改动
 
@@ -65,7 +65,7 @@ npm i
 
 ## 不足的地方
 
-加载segment辞典会有1 - 2s的卡顿
+加载segment词典会有1 - 2s的卡顿
 
 ## License
 
