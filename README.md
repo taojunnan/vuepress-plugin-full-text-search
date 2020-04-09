@@ -1,0 +1,1 @@
+# vuepress-plugin-fulltext-search
